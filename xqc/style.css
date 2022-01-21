@@ -1,0 +1,81 @@
+html {
+    background-color: black;
+    
+}
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(255, 230, 0);
+}
+
+.heading.h1 {
+    font-size: 64px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.heading.h2 {
+    font-size: 32px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*
+.horizontal-line {
+    border: solid rgb(255, 230, 0) 2px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+*/
+
+.xqc-img1 {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    display: block;
+    width: 400px;
+    height: auto;
+}
+
+.heading.h3 {
+    font-size: 24px;
+}
+
+.heading2.ttv {
+    color: #9146FF;
+}
+
+.para {
+    color: white ;
+    font-weight: bold;
+}
+
+.para.one {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: auto;
+}
+
+.para.two {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para.three {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}

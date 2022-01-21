@@ -1,0 +1,25 @@
+html {
+    background-color: black;
+    
+}
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(255, 230, 0);
+}
+
+.heading.h1 {
+    font-size: 64px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+.horizontal-line {
+    border: solid white 2px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
